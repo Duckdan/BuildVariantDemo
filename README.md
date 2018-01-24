@@ -1,0 +1,2 @@
+# BuildVariantDemo
+AndroidStudio中BuildVariants工具的使用Demo
