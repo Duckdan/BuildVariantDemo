@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name_debug">测试版</string>
+    <string name="app_name_release">正式版</string>
+</resources>
